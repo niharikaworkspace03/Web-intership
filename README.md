@@ -13,6 +13,19 @@ This project was developed as part of an HTML internship to demonstrate the fund
 
 ## Technologies Used
 - HTML5
+## Project Screenshots
+
+### Home Page
+![Home Page](HtmlPage.png)
+
+### Registration Form
+![Registration Form](RegistrationForm.png)
+
+### Student Details Table
+![Student Details Table](Table.png)
+
+### Navigation Web Pages
+![Navigation Web Pages](WebPages.png)
 
 ## Author
 **Niharika M**
